@@ -4,7 +4,7 @@
   "description": "Solution to LeetCode problem #268 - Find Missing number in array.",
   "main": "MissingNumber.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
