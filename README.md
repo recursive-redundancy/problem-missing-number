@@ -32,3 +32,6 @@ The solution calculates this expected sum, and then iterates the given array (us
 Once we have both the expected sum and the actual sum, to find the missing number we simply subtract the actual from the expected. The result is the missing number.
 
 This method allows us to accomplish the task in linear time complexity - O(n) as the instructions dictate.
+
+# Testing
+A test.js script is included for unit testing. Test is run on the two example arrays from the problem. Test is run by 'npm test' command.
