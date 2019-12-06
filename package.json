@@ -1,0 +1,19 @@
+{
+  "name": "missing-number",
+  "version": "1.0.0",
+  "description": "Solution to LeetCode problem #268 - Find Missing number in array.",
+  "main": "MissingNumber.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/recursive-redundancy/problem-missing-number.git"
+  },
+  "author": "Daniel Morgan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/recursive-redundancy/problem-missing-number/issues"
+  },
+  "homepage": "https://github.com/recursive-redundancy/problem-missing-number#readme"
+}
